@@ -232,10 +232,10 @@ export default function Home() {
                 <p>
                   Τηλέφωνο:{" "}
                   <a
-                    href="tel:6974938501"
+                    href="tel:6934938101"
                     className="font-medium text-emerald-300 hover:text-emerald-200"
                   >
-                    697 493 8501
+                    693 493 8101
                   </a>
                 </p>
                 <p>
